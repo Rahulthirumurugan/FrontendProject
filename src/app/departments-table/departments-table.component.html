@@ -1,0 +1,25 @@
+<div class="container-fluid mt-5">
+  <div class="container mt-5 border border-1 border-white">
+    <table class="table table-striped table-dark mt-5">
+      <thead>
+        <tr>
+          <th scope="col">id</th>
+          <th scope="col">Department Name</th>
+          <th scope="col">List of Products</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr *ngFor="let department of departmentData; let i = index">
+          <td>{{ i + 1 }}</td>
+          <td>{{ department.deptName }}</td>
+          <td>
+            <ul>
+              <li *ngFor="let product of department.products">{{ product.productName }}</li>
+            </ul>
+          </td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
+
+</div>

@@ -1,0 +1,29 @@
+
+.t1{
+    background-color: #333;
+}
+
+.input-box{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.card{
+    margin-left: 10px;
+    background-color: #333;
+    color: #fff;
+    margin-top: -42px;
+}
+.input-boxes h4{
+    font-size: 30px;
+}
+.prod{
+    border-bottom: 1px solid gray !important;
+    border: none;
+    min-width: 200px;
+}
+.prod:active, .prod:focus{
+    box-shadow: none !important ;
+}

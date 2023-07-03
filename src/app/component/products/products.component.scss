@@ -1,0 +1,21 @@
+.container{
+    margin-top: 60px;
+}
+.card{
+    padding:20px;
+    margin: 10px;
+    width: 360px;
+}
+.card img{
+    width: 300px;
+    height: 250px;
+    margin-bottom: 15px;
+    transition: 0.3s ease-in-out;
+}
+.card img:hover{
+    transition: 0.3s ease-in-out;
+    transform:scale(1.1) ;
+}
+.d1{
+    margin-top: 14px;
+}

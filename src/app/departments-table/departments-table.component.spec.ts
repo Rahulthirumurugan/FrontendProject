@@ -1,0 +1,21 @@
+import { ComponentFixture, TestBed } from '@angular/core/testing';
+
+import { DepartmentsTableComponent } from './departments-table.component';
+
+describe('DepartmentsTableComponent', () => {
+  let component: DepartmentsTableComponent;
+  let fixture: ComponentFixture<DepartmentsTableComponent>;
+
+  beforeEach(() => {
+    TestBed.configureTestingModule({
+      declarations: [DepartmentsTableComponent]
+    });
+    fixture = TestBed.createComponent(DepartmentsTableComponent);
+    component = fixture.componentInstance;
+    fixture.detectChanges();
+  });
+
+  it('should create', () => {
+    expect(component).toBeTruthy();
+  });
+});

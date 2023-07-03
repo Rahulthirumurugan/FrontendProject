@@ -1,0 +1,87 @@
+[
+      {
+        "id": 1,
+        "name": "Acer predator triton-300",
+        "description": "Powerful laptop with high-performance specifications.",
+        "price": 999.99,
+        "image": "https://rukminim1.flixcart.com/image/312/312/khz693k0/computer/m/8/q/acer-original-imafxvhdhvbhfzt6.jpeg?q=70"
+      },
+      {
+        "id": 2,
+        "name": "Iphone 12",
+        "description": "Sleek and lightweight laptop for productivity on the go.",
+        "price": 1299.99,
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQl3gTRgsU7utB2B_Ke4R03IelIQUdOsA85Iw&usqp=CAU"
+      },
+      {
+        "id": 3,
+        "name": "Smart TV",
+        "description": "Ultra HD smart TV with built-in streaming capabilities.",
+        "price": 4.99,
+        "image": "https://rukminim1.flixcart.com/image/312/312/kzfvzww0/television/e/b/b/32hd2a00-32-y1s-oneplus-original-imagbgcewfqywgk7.jpeg?q=70"
+      },
+      {
+        "id": 4,
+        "name": "Wireless Headphones",
+        "description": "High-quality wireless headphones with noise cancellation.",
+        "price": 2.49,
+        "image": "https://rukminim1.flixcart.com/image/612/612/xif0q/headphone/i/a/a/i12-chitransh-original-imagne6em8nrywfq.jpeg?q=70"
+      },
+      {
+        "id": 5,
+        "name": "DSLR Camera",
+        "description": "Professional-grade DSLR camera with advanced features.",
+        "price": 699.99,
+        "image": "https://rukminim1.flixcart.com/image/312/312/k1jlyfk0/dslr-camera/b/c/a/90d-eos-90d-canon-original-imafh3b6jvmzyesh.jpeg?q=70"
+      },
+      {
+        "id": 6,
+        "name": "shirts",
+        "description": "This men's casual checkered shirt is a versatile, Crafted from high-quality cotton ",
+        "price": 299.99,
+        "image": "https://rukminim1.flixcart.com/image/612/612/xif0q/shirt/s/m/y/m-st1-vebnor-original-imagn69kcwphkfrf.jpeg?q=70"
+      },
+      {
+        "id": 7,
+        "name": "Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",
+        "price": 109.95,
+        "description": "Your perfect pack for everyday use and walks in the forest.",
+        "image": "https://fakestoreapi.com/img/81fPKd-2AYL._AC_SL1500_.jpg"
+      },
+    {
+        "id": 8,
+        "name": "Mens Casual Premium Slim Fit T-Shirts ",
+        "price": 22.3,
+        "description": "Slim-fitting style, three-button henley placket And Solid stitched shirts with round neck .",
+        "image": "https://fakestoreapi.com/img/71-3HjGNDUL._AC_SY879._SX._UX._SY._UY_.jpg"
+    },
+    {
+        "id": 9,
+        "name": "Mens Cotton Jacket",
+        "price": 55.99,
+        "description": "Jackets for Spring/Autumn/Winter, suitable for many occasions, such as working, hiking, ",
+        "image": "https://fakestoreapi.com/img/71li-ujtlUL._AC_UX679_.jpg"
+    },
+    {
+        "id": 10,
+        "name": "Mens Casual Slim Fit",
+        "price": 15.99,
+        "description": "The color could be slightly different between on the screen and in practice.",
+        "image": "https://fakestoreapi.com/img/71YXzeOuslL._AC_UY879_.jpg"
+    },
+    {
+        "id": 11,
+        "name": "John Hardy Women's Legends Naga Gold & Silver Bracelet",
+        "price": 695,
+        "description": "The Naga was inspired by the mythical water dragon that protects the ocean's pearl",
+        "image": "https://fakestoreapi.com/img/71pWzhdJNwL._AC_UL640_QL65_ML3_.jpg"
+    },
+    {
+        "id": 12,
+        "name": "Solid Gold Petite Micropave ",
+        "price": 168,
+        "description": "Satisfaction Guaranteed. Designed and sold by Hafeez Center in the United States.",
+        "image": "https://fakestoreapi.com/img/61sbMiUnoGL._AC_UL640_QL65_ML3_.jpg"
+    }
+]
+  

@@ -14,4 +14,14 @@ export class HeaderComponent implements OnInit {
       localStorage.setItem("isUserLoggedIn","false")
       alert("You have been signout")
     }
+    closeNavbar(): void {
+      const navbarToggler = document.querySelector('.navbar-toggler');
+      const navbarCollapse = document.querySelector('.navbar-collapse');
+    
+      if (navbarToggler && navbarCollapse) {
+        (navbarToggler as HTMLElement).click();
+        (navbarCollapse as HTMLElement).classList.remove('show');
+      }
+    }
+    
 }

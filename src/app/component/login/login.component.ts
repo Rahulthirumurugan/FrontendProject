@@ -67,6 +67,7 @@ export class LoginComponent implements OnInit {
           alert("Invalid Credentials!")
         }
         if (statusCode === 200) {
+          alert("You've been successfully logged in!")
           localStorage.setItem('isUserLoggedIn', 'true');
           this.router.navigate(['/home']);
         }

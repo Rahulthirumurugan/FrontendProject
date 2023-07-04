@@ -45,23 +45,6 @@ export class ProductsTableComponent {
     });
   }
   
-  // addDepartment(productName: string, deptName: string): void {
-  //   const data = {
-  //     productName: productName,
-  //     deptName: deptName
-  //   };
-  //   this.departmentService.setDepartmentName(data.deptName);
-  
-  //   this.http.post("http://localhost:8080/api/department", data).subscribe(
-  //     (resultData: any) => {
-  //       console.log(resultData);
-  //       console.log(data.deptName + " " + data.productName);
-  //     },
-  //     (error) => {
-  //       console.log("error in adding department", error);
-  //     }
-  //   );
-  // }
   updateProduct(item : any){
     console.log(item);
     let productName = window.prompt('Enter the product name')
@@ -120,6 +103,7 @@ export class ProductsTableComponent {
  }
  addProducts(){
   console.log("Inside add products method")
+  alert("Product added successfully")
   const productName = this.productForm.value.productName;
     const deptName = this.productForm.value.deptName;
     console.log(productName + " "+deptName)
